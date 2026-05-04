@@ -1,0 +1,37 @@
+sample,source_columns,databases_detected,dataset,nombre,fertilizer,tratamiento,estudio,fungicide,pesticide,herbicide,plant,ph,org_matter,temp,plant_growth_med,plant_water_method,experiment
+luciana_01,luciana_01_EuPathDB;luciana_01_GTDB;luciana_01_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BIB1_S8,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_02,luciana_02_EuPathDB;luciana_02_GTDB;luciana_02_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JAB1_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_03,luciana_03_EuPathDB;luciana_03_GTDB;luciana_03_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JAB3_S6,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_04,luciana_04_EuPathDB;luciana_04_GTDB;luciana_04_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JAB4_S7,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_05,luciana_05_EuPathDB;luciana_05_GTDB;luciana_05_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JCB1_S1,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1.0
+luciana_06,luciana_06_EuPathDB;luciana_06_GTDB;luciana_06_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JCB2_S2,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1.0
+luciana_07,luciana_07_EuPathDB;luciana_07_GTDB;luciana_07_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JCB3_S3,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1.0
+luciana_08,luciana_08_EuPathDB;luciana_08_GTDB;luciana_08_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JCB4_S4,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1.0
+luciana_09,luciana_09_EuPathDB;luciana_09_GTDB;luciana_09_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BAB1_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_10,luciana_10_EuPathDB;luciana_10_GTDB;luciana_10_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BAB2_S6,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_11,luciana_11_EuPathDB;luciana_11_GTDB;luciana_11_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BAB3_S7,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_12,luciana_12_EuPathDB;luciana_12_GTDB;luciana_12_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BAB4_S8,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_13,luciana_13_EuPathDB;luciana_13_GTDB;luciana_13_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BIB2_S4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_14,luciana_14_EuPathDB;luciana_14_GTDB;luciana_14_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,CeAB1_S9,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1.0
+luciana_15,luciana_15_EuPathDB;luciana_15_GTDB;luciana_15_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,CeAB2_S10,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1.0
+luciana_16,luciana_16_EuPathDB;luciana_16_GTDB;luciana_16_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,CeAB3_S11,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1.0
+luciana_17,luciana_17_EuPathDB;luciana_17_GTDB;luciana_17_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JAB2_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_18,luciana_18_EuPathDB;luciana_18_GTDB;luciana_18_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JIB1,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_19,luciana_19_EuPathDB;luciana_19_GTDB;luciana_19_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JIB2,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_27,luciana_27_EuPathDB;luciana_27_GTDB;luciana_27_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BIB3,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_28,luciana_28_EuPathDB;luciana_28_GTDB;luciana_28_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,BIB4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1.0
+luciana_32,luciana_32_EuPathDB;luciana_32_GTDB;luciana_32_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,CeAB4,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1.0
+luciana_34,luciana_34_EuPathDB;luciana_34_GTDB;luciana_34_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JIB3,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_35,luciana_35_EuPathDB;luciana_35_GTDB;luciana_35_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos1,JIB4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1.0
+luciana_20,luciana_20_EuPathDB;luciana_20_GTDB;luciana_20_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Cpst1,otherComposta,otherComposta,2,,,,tomato,7.95,4.221,,soil,drip,
+luciana_21,luciana_21_EuPathDB;luciana_21_GTDB;luciana_21_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Cpst2,otherComposta,otherComposta,2,,,,tomato,7.55,4.457,,soil,drip,
+luciana_22,luciana_22_EuPathDB;luciana_22_GTDB;luciana_22_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Quí2,otherQuimico,otherQuimico,2,,,,tomato,7.87,2.211,,soil,drip,
+luciana_23,luciana_23_EuPathDB;luciana_23_GTDB;luciana_23_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Quí3,otherQuimico,otherQuimico,2,,,,tomato,8.08,2.11,,soil,drip,
+luciana_29,luciana_29_EuPathDB;luciana_29_GTDB;luciana_29_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Bk1,otherBokashi,otherBokashi,2,,,,tomato,7.46,4.154,,soil,drip,
+luciana_30,luciana_30_EuPathDB;luciana_30_GTDB;luciana_30_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Bk2,otherBokashi,otherBokashi,2,,,,tomato,7.64,4.221,,soil,drip,
+luciana_31,luciana_31_EuPathDB;luciana_31_GTDB;luciana_31_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Bk3,otherBokashi,otherBokashi,2,,,,tomato,7.74,3.752,,soil,drip,
+luciana_33,luciana_33_EuPathDB;luciana_33_GTDB;luciana_33_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Cpst3,otherComposta,otherComposta,2,,,,tomato,7.83,4.656,,soil,drip,
+luciana_36,luciana_36_EuPathDB;luciana_36_GTDB;luciana_36_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Quí1,otherQuimico,otherQuimico,2,,,,tomato,7.44,2.04,,soil,drip,
+luciana_37,luciana_37_EuPathDB;luciana_37_GTDB;luciana_37_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos2,Te2,otherTestigo,otherTestigo,2,,,,,8.1,3.283,,soil,drip,
+luciana_26,luciana_26_EuPathDB;luciana_26_GTDB;luciana_26_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos3,BF1,other,other,3,,,,tomato,,,22.5,water,,2.0
+luciana_38,luciana_38_EuPathDB;luciana_38_GTDB;luciana_38_PlusPFP,GTDB;PlusPFP;EuPathDB,suelos3,TK3,other,other,3,,,,,,,22.5,water,,2.0

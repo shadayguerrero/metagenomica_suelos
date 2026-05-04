@@ -1,0 +1,25 @@
+sample,nombre,fertilizer,tratamiento,estudio,fungicide,pesticide,herbicide,plant,ph,org_matter,temp,plant_growth_med,plant_water_method,experiment
+luciana_09,BAB1_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_10,BAB2_S6,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_11,BAB3_S7,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_12,BAB4_S8,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_14,CeAB1_S9,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1
+luciana_15,CeAB2_S10,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1
+luciana_16,CeAB3_S11,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1
+luciana_32,CeAB4,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,cempazuchitl,,,,soil,drip,1
+luciana_02,JAB1_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_17,JAB2_S5,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_03,JAB3_S6,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_04,JAB4_S7,Compost,Agroecológico,1,sulfocalcium_Fungifree_bordocop,Beauveria_Dipel_Trichoderma_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_05,JCB1_S1,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1
+luciana_06,JCB2_S2,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1
+luciana_07,JCB3_S3,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1
+luciana_08,JCB4_S4,phosphonitrate,Convencional ,1,Manzate_Clorotalonil,Imidacloprid,Weeding,tomato,,,,soil,drip,1
+luciana_01,BIB1_S8,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_13,BIB2_S4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_27,BIB3,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_28,BIB4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,brocoli,,,,soil,drip,1
+luciana_18,JIB1,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_19,JIB2,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_34,JIB3,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1
+luciana_35,JIB4,phosphonitrate_compost,Integrado,1,Manzate_Clorotalonil,Beauveria_Dipel_Trichoderma_Decis_Bt,Weeding,tomato,,,,soil,drip,1
